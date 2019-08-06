@@ -634,3 +634,4 @@
 #####   DEV in Khmer Languages 
 - [machine_learning_lesson](https://github.com/khmertool/machine_learning_lesson) - Machine learning lesson in khmer .
 ##### 	Github Useful Repo
+- [Technology Book](https://github.com/arpitjindal97/technology_books) - Technology Book.
