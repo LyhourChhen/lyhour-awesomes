@@ -5,7 +5,7 @@
 	
 ## Contents
 - [LyhourChhen](#LyhourChhen)
-- [React List](https://github.com/LyhourChhen/Personal-List/blob/master/reactList.md)
+- [React List](https://lyhourchhen.github.io/Personal-List/reactList)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
