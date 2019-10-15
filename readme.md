@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Business Awesome](https://medium.com/swlh/300-awesome-free-things-e07b3cd5fd5b) - Awesome-list -> for entreprenurs ! 
 - [a-> z](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - list for everhtings
 - [Begineer for awesome](https://github.com/MunGell/awesome-for-beginners)
 - [Functional Programming roadmap](https://github.com/leandrotk/functional-programming-learning-path) - Functional programing path.
