@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [type + node](https://github.com/bitjson/typescript-starter) getting start with type
 - [micro services docs](https://github.com/vaquarkhan/vaquarkhan) - collect the useful micro servers documents
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [telegram library](https://github.com/tdlib/td) - the telegram library to build the own client for telegram
