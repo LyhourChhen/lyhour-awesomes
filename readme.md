@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [TypeGraph](https://github.com/MichalLytek/type-graphql) TypeScript with GraphQL 
 - [Checklists](https://github.com/netbiosX/Checklists) - Pentesting checklists for various engagements
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Where everyone learn code for free !
 - [Build telegram web with react](https://github.com/evgeny-nadymov/telegram-react) - telegram build with react
