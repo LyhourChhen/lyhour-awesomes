@@ -38,6 +38,9 @@
 
 ## LyhourChhen
 
+##### Lirabry 
+- [jimp](https://github.com/oliver-moran/jimp) - modified and manipulate the piture in nodejs with server side
+
 ##### Great repos need to check out now !!!
 - [learn resources](https://github.com/lauragift21/awesome-learning-resources) - The place where resource to learn everything.
 - [Learn to build your own technology here](https://github.com/danistefanovic/build-your-own-x) - The docs relate demonstrate to build own  technology.
